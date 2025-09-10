@@ -1,0 +1,6 @@
+s="mani"
+add=id(s)
+print("address variable =",add)
+
+output:
+address variable = 2537883605664
