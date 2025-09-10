@@ -1,0 +1,12 @@
+def my_function(s):
+    l=s.lower()
+    u=s.upper()
+    print("lowercase =",l)
+    print("uppercase =",u)
+s=input("enter the string:")
+my_function(s)
+
+output:
+enter the string:PYThon
+lowercase = python
+uppercase = PYTHON
