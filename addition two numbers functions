@@ -1,0 +1,11 @@
+def my_function(n1,n2):
+    n3=n1+n2
+    print("addition two numbers =",n3)
+n1=int(input("enter the first number:"))
+n2=int(input("enter the second number:"))
+my_function(n1,n2)
+
+output:
+enter the first number:3
+enter the second number:4
+addition two numbers = 7
