@@ -1,0 +1,7 @@
+s=input("enter the string:")
+reverse=s[::-1]
+print("reversed string =",reverse)
+
+output:
+enter the string:mani
+reversed string = inam
