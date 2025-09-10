@@ -1,0 +1,8 @@
+def my_function(s):
+    add=id(s)
+    print("address variable =",add)
+s="mani"
+my_function(s)
+
+output:
+address variable = 2537883605664
