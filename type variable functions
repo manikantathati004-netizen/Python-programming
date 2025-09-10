@@ -1,0 +1,16 @@
+def my_function(s1,s2,s3,s4):
+    print(type(s1))
+    print(type(s2))
+    print(type(s3))
+    print(type(s4))
+s1="mani"
+s2=23
+s3=True
+s4=24.35
+my_function(s1,s2,s3,s4)
+
+output:
+<class 'str'>
+<class 'int'>
+<class 'bool'>
+<class 'float'>
