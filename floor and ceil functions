@@ -1,0 +1,12 @@
+def my_function(n):
+    floor=math.floor(n)
+    ceil=math.ceil(n)
+    print("floor =",floor)
+    print("ceil =",ceil)
+import math
+n=float(input("enter the number:"))
+my_function(n)
+
+output:
+floor = 5
+ceil = 6
